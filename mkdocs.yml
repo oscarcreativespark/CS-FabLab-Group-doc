@@ -1,0 +1,17 @@
+site_name: Fab Academy Creative Spark
+
+nav:
+  - Home: index.md
+  - Computer Controlled Cutting: computercontrolledcutting.md
+
+theme:
+  name: terminal
+  palette: gruvbox_dark
+
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.11.0/highlight.min.js
+  - https://unpkg.com/highlightjs-cobol/dist/cobol.min.js
+  - add_hljs_highlight.js
+
+extra_css:
+  - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.11.0/styles/a11y-dark.min.css
