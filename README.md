@@ -112,7 +112,7 @@ _Examples in a few materials_
 
 ![](https://fabacademy.org/2025/labs/creativespark/students/carl-mcateer/images/w3/w3-sc3-10.jpeg)
 
-_Repeat the process for the engravings_
+_Repeat the process for the engravings._
 
 ![](https://fabacademy.org/2025/labs/creativespark/students/carl-mcateer/images/w3/w3-sc3-11.jpeg)
 
