@@ -44,6 +44,14 @@ Type here
 
 <figure><img src=".gitbook/assets/w9-sc2-5.jpeg" alt=""><figcaption></figcaption></figure>
 
+<figure><img src=".gitbook/assets/w9-sc3-1.jpeg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/w9-sc3-2.jpeg" alt=""><figcaption></figcaption></figure>
+
+### &#x20;<a href="#id-19caf66e-e64e-80ec-8097-cc6097eeb639" id="id-19caf66e-e64e-80ec-8097-cc6097eeb639"></a>
+
+<figure><img src=".gitbook/assets/w9-sc3-3.jpeg" alt=""><figcaption></figcaption></figure>
+
 ***
 
 ### Group conclusions <a href="#id-19caf66e-e64e-80ec-8097-cc6097eeb639" id="id-19caf66e-e64e-80ec-8097-cc6097eeb639"></a>
