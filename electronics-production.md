@@ -1,8 +1,12 @@
+---
+icon: gears
+cover: .gitbook/assets/ed.jpg
+coverY: 0
+---
+
 # Electronics Production
 
-💡
-
-Group assignment
+💡Group assignment
 
 * Characterize the **design rules** for your in-house PCB production process: document feeds, speeds, plunge rate, depth of cut (traces and outline) and tooling.
 * Document the workflow for sending a PCB to a boardhouse
