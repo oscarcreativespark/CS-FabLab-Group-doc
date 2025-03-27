@@ -27,7 +27,7 @@ This week we examined the current draw, voltage and resulting power consumption 
 * Microcontroller: RP2040
 * RP2040 onboard LED
 * Small low-voltage servo
-* Color TFT USB Power Meter/Tester
+* Colour TFT USB Power Meter/Tester
 * Arduino IDE and respective code
 
 ***
@@ -56,7 +56,10 @@ For testing of both output devices, the USB Power Meter was inserted between USB
 Findings:&#x20;
 
 * The mechanical process of the servo required significantly greater current/power to operate than the electroluminescence functionality of the LED.
-*
+
+Challenges:
+
+* The resolution for measuring current on the USB Power Meter was 10mA, so it introduced a large error (+/- 5mA)
 
 ***
 
