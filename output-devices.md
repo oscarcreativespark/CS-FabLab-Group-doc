@@ -13,7 +13,10 @@ Group assignment
 
 > _Briefly describe the goal of the assignment. What are you characterizing, testing, or exploring_
 
-Type here
+This week we examined the current draw, voltage and resulting power consumption from two output devices being controlled by a RP2040 microcontroller (programmed via the Arduino IDE):\
+1\) Blinking LED
+
+2\) A small servo motor.&#x20;
 
 ***
 
@@ -21,7 +24,11 @@ Type here
 
 > _List all the machines, software and materials used in this assigment._
 
-* Type here
+* Microcontroller: RP2040
+* RP2040 onboard LED
+* Small low-voltage servo
+* Color TFT USB Power Meter/Tester
+* Arduino IDE and respective code
 
 ***
 
@@ -29,7 +36,12 @@ Type here
 
 > Describe step-by-step what the group did. Include sketches, screenshots, or videos if possible.
 
-Type here
+For testing of both output devices, the USB Power Meter was inserted between USB power output (from a laptop), and the USB power input on the RP2040.
+
+1. For the LED, the USB power meter was initially used in the 'Main Interface 1 (main measurement interface)' mode to observe the numerical voltage and current values. The voltage (V) value measured by the meter stayed constant at approximately 5.1v, while the current  (I) was observed at 0.025A (250mA) during LED 'On' and 0.024A (240mA). Hence, the current draw observed by the LED was approximately 10mA. This equates to a power consumption by the LED of 0.0051W or 5.1mW (in operation).
+2. To measure the current draw while using the Servo Motor we adjusted the USB Power Meter to the Main Interface 6 (Current Graphing Interface Mode). This allowed us to observe the visual change in current draw, while also obtaining measurements from the referenced gridline interface. In this mode we observed the transition to higher current draw (0.5A - 500mA) while the servo was operating, reducing to a current draw of 0.1A (100mA) when the servo was at rest. This equates to a power consumption range between 0.5W (min) and 2.5W (max).\
+   \
+   Note: It was observed that obstructing the motion of the servo during operation caused a spike in the current draw as the device physically resisted the obstruction, drawing higher current to stay  in line with its programming.&#x20;
 
 ***
 
@@ -41,7 +53,10 @@ Type here
 
 > **Solutions:** \[How did you solve them?]
 
-Type here
+Findings:&#x20;
+
+* The mechanical process of the servo required significantly greater current/power to operate than the electroluminescence functionality of the LED.
+*
 
 ***
 
