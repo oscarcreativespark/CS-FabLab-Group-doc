@@ -36,6 +36,10 @@ This week we examined the current draw, voltage and resulting power consumption 
 
 > Describe step-by-step what the group did. Include sketches, screenshots, or videos if possible.
 
+<figure><img src=".gitbook/assets/IMG_20250326_165220416.jpg" alt=""><figcaption></figcaption></figure>
+
+
+
 For testing of both output devices, the USB Power Meter was inserted between USB power output (from a laptop), and the USB power input on the RP2040.
 
 1. For the LED, the USB power meter was initially used in the 'Main Interface 1 (main measurement interface)' mode to observe the numerical voltage and current values. The voltage (V) value measured by the meter stayed constant at approximately 5.1v, while the current  (I) was observed at 0.025A (250mA) during LED 'On' and 0.024A (240mA). Hence, the current draw observed by the LED was approximately 10mA. This equates to a power consumption by the LED of 0.0051W or 5.1mW (in operation).

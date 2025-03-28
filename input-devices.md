@@ -70,6 +70,12 @@ The MicroPython code used for the monitoring of the I2C bus also integrated moni
 MicroPython Code for Monitoring I2C bus under MPU6050 operation
 {% endfile %}
 
+{% embed url="https://fabacademy.org/2025/labs/creativespark/students/thom-conaty/images/weekly/week9/probe/output_smaller.mp4" %}
+MPU6050 signal probing demonstration
+{% endembed %}
+
+
+
 Modes of operation for the MicroPython code:
 
 1. **Read All Sensor Data (Bulk Read)**
