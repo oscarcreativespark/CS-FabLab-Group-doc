@@ -1,8 +1,6 @@
 # Output devices
 
-💡
-
-Group assignment
+💡Group assignment
 
 * Measure the power consumption of an output device.
 * Document your work on the group work page and reflect on your individual page what you learned.
