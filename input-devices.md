@@ -1,8 +1,10 @@
+---
+description: https://academy.cba.mit.edu/classes/input_devices/index.html
+---
+
 # Input devices
 
-💡
-
-Group assignment
+💡Group assignment
 
 * Probe an input device(s)'s analog levels and digital signals
 * Document your work on the group work page and reflect on your individual page what you learned

@@ -1,8 +1,10 @@
+---
+description: https://academy.cba.mit.edu/classes/networking_communications/index.html
+---
+
 # Networking and communications
 
-💡
-
-Group assignment
+💡Group assignment
 
 * Send a message between two projects
 * Document your work to the group work page and reflect on your individual page what you learned

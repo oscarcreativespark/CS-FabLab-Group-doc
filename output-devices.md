@@ -1,3 +1,7 @@
+---
+description: https://academy.cba.mit.edu/classes/output_devices/index.html
+---
+
 # Output devices
 
 💡Group assignment

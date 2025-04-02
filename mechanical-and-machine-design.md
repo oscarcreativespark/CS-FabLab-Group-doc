@@ -1,16 +1,14 @@
 # Mechanical and machine design
 
-💡
-
-Group assignment (part 1 of 2) - Mechanical design
+💡Group assignment (part 1 of 2) - Mechanical design
 
 * Design a [machine](http://machines.fabcloud.io/) that includes mechanism + actuation + automation + application
 * Build the mechanical parts and operate it manually
 * Document the group project
 
-💡
+***
 
-Group assignment (part 2 of 2) - Machine design
+💡Group assignment (part 2 of 2) - Machine design
 
 * Actuate and automate your machine
 * Document the group project
