@@ -73,19 +73,66 @@ while True:
 
 ```
 
-#### Recieve
+#### Receive
+
+```
+import board
+import busio
+import digitalio
+import time
+
+Set up UART on TX=GP4, RX=GP5 (we only use RX here)
+uart = busio.UART(tx=board.TX, rx=board.RX, baudrate=9600)
+
+Set up onboard LED (or use another GPIO pin)
+led = digitalio.DigitalInOut(board.LED)
+led.direction = digitalio.Direction.OUTPUT
+
+buffer = b''
+
+while True:
+    data = uart.read(32)  # Read up to 32 bytes at once
+    led.value = not led.value  # toggle LED
+
+if data:
+    buffer += data
+    if b'\n' in buffer:
+        line, _, buffer = buffer.partition(b'\n')
+        message = line.strip().decode("utf-8")
+        print("Received:", message)
+        if message == "PRESSED":
+            led.value = not led.value  # toggle LED
+```
 
 
+
+<figure><img src=".gitbook/assets/gropu_pic_11_3.jpeg" alt=""><figcaption></figcaption></figure>
+
+Diarmuid had to modify the Board to access the Tx and Rx pins with some form of header - this required some stealthy soldering skills that we all lack but got there!! It is not the prettiest but it will get the job done!!
+
+
+
+<figure><img src=".gitbook/assets/group_pic_11_01.jpeg" alt=""><figcaption></figcaption></figure>
+
+We connected the two boards together after attaching a header to Diarmuid's  Fab board for Tx and Rx.&#x20;
+
+Attempted to run the code - something was not working!!
+
+<figure><img src=".gitbook/assets/gropu_pic_11_2.jpeg" alt=""><figcaption></figcaption></figure>
+
+The header on Carls Tx pin was going to ground - to fix this carl just held the cable to the Tx pin on the XIAO RP2040- and we also had to run a cable from ground to ground on each board.
+
+and hey presto - we are networking - sending and receving data.
 
 ***
 
 ### Group conclusions <a href="#id-19caf66e-e64e-8061-b14c-fb82b8c7a6c0" id="id-19caf66e-e64e-8061-b14c-fb82b8c7a6c0"></a>
 
-> **Findings:** \[What did you learn from the process?]
+> **Findings:** Did not receive as many messages as we sent, must be due to poor connection / noise
 
-> **Challenges:** \[What issues did you encounter?]
+> **Challenges:** the development boards we are using have other components on the TXRX pins so we had to get creative as to our connections
 
-> **Solutions:** \[How did you solve them?]
+> **Solutions:** we ended up probing with jumpers by hand.
 
 Type here
 
