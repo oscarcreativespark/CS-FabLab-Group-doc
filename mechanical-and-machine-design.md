@@ -38,11 +38,11 @@ Type here
 ### **Mechanical Design (part 1 of 2)** <a href="#id-19caf66e-e64e-806f-a181-fb94fbc4acda" id="id-19caf66e-e64e-806f-a181-fb94fbc4acda"></a>
 
 Type here
-<figure><img src=".gitbook/docs/img/w12/12_pic_01 - 1.jpeg" alt=""><figcaption>fig tag</figcaption></figure>
+<figure><img src="../docs/img/w12/12_pic_01 - 1.jpeg" alt=""><figcaption>fig tag</figcaption></figure>
 
 gitbook tag
 
-![](.gitbook/docs/img/w12/12_pic_01 - 1.jpeg){width="100%"}
+![](../docs/img/w12/12_pic_01 - 1.jpeg){width="100%"}
 
 Carl tag
 
