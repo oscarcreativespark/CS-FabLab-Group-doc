@@ -5,7 +5,6 @@
 * Design a [machine](http://machines.fabcloud.io/) that includes mechanism + actuation + automation + application
 * Build the mechanical parts and operate it manually
 * Document the group project
-* This is an edit from Carls terminal, lets see if it works
 
 ***
 
