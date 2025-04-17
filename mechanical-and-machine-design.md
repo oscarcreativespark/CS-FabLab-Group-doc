@@ -38,13 +38,106 @@ Type here
 ### **Mechanical Design (part 1 of 2)** <a href="#id-19caf66e-e64e-806f-a181-fb94fbc4acda" id="id-19caf66e-e64e-806f-a181-fb94fbc4acda"></a>
 
 Type here
-<figure><img src="../docs/img/w12/12_pic_01 - 1.jpeg" alt=""><figcaption>fig tag</figcaption></figure>
+<figure><img src="../docs/img/w12/w12-1.jpeg" alt=""><figcaption>fig tag</figcaption></figure>
 
-gitbook tag
+TODO
 
-![](../docs/img/w12/12_pic_01 - 1.jpeg){width="100%"}
+<figure><img src="../docs/img/w12/w12-2.jpeg" alt=""><figcaption>fig tag</figcaption></figure>
 
-Carl tag
+TODO
+
+<figure><img src="../docs/img/w12/w12-3.jpeg" alt=""><figcaption>fig tag</figcaption></figure>
+
+TODO
+
+<figure><img src="../docs/img/w12/w12-4.jpeg" alt=""><figcaption>fig tag</figcaption></figure>
+
+TODO
+
+<figure><img src="../docs/img/w12/w12-5.jpeg" alt=""><figcaption>fig tag</figcaption></figure>
+
+TODO
+
+<figure><img src="../docs/img/w12/w12-6.jpeg" alt=""><figcaption>fig tag</figcaption></figure>
+
+TODO
+
+<figure><img src="../docs/img/w12/w12-7.jpeg" alt=""><figcaption>fig tag</figcaption></figure>
+
+TODO
+
+<figure><img src="../docs/img/w12/w12-8.jpeg" alt=""><figcaption>fig tag</figcaption></figure>
+
+TODO
+
+<figure><img src="../docs/img/w12/w12-9.jpeg" alt=""><figcaption>fig tag</figcaption></figure>
+
+TODO
+
+<figure><img src="../docs/img/w12/w12-10.jpeg" alt=""><figcaption>fig tag</figcaption></figure>
+
+TODO
+
+<figure><img src="../docs/img/w12/w12-11.jpeg" alt=""><figcaption>fig tag</figcaption></figure>
+
+TODO
+
+<figure><img src="../docs/img/w12/w12-12.jpeg" alt=""><figcaption>fig tag</figcaption></figure>
+
+TODO
+
+<figure><img src="../docs/img/w12/w12-13.jpeg" alt=""><figcaption>fig tag</figcaption></figure>
+
+TODO
+
+<figure><img src="../docs/img/w12/w12-14.jpeg" alt=""><figcaption>fig tag</figcaption></figure>
+
+TODO
+
+<figure><img src="../docs/img/w12/w12-15.jpeg" alt=""><figcaption>fig tag</figcaption></figure>
+
+TODO
+
+<figure><img src="../docs/img/w12/w12-16.jpeg" alt=""><figcaption>fig tag</figcaption></figure>
+
+TODO
+
+<figure><img src="../docs/img/w12/w12-17.jpeg" alt=""><figcaption>fig tag</figcaption></figure>
+
+TODO
+
+<figure><img src="../docs/img/w12/w12-18.jpeg" alt=""><figcaption>fig tag</figcaption></figure>
+
+TODO
+
+<figure><img src="../docs/img/w12/w12-19.jpeg" alt=""><figcaption>fig tag</figcaption></figure>
+
+TODO
+
+<figure><img src="../docs/img/w12/w12-20.jpeg" alt=""><figcaption>fig tag</figcaption></figure>
+
+TODO
+
+<figure><img src="../docs/img/w12/w12-22.jpeg" alt=""><figcaption>fig tag</figcaption></figure>
+
+TODO
+
+<figure><img src="../docs/img/w12/w12-23.jpeg" alt=""><figcaption>fig tag</figcaption></figure>
+
+TODO
+
+<figure><img src="../docs/img/w12/w12-24.jpeg" alt=""><figcaption>fig tag</figcaption></figure>
+
+TODO
+
+<figure><img src="../docs/img/w12/w12-25.jpeg" alt=""><figcaption>fig tag</figcaption></figure>
+
+TODO
+
+<figure><img src="../docs/img/w12/w12-26.jpeg" alt=""><figcaption>fig tag</figcaption></figure>
+
+TODO
+
 
 
 ### **Machine Design (part 2 of 2)** <a href="#id-19caf66e-e64e-802f-bbba-fe4c9e5ba9f0" id="id-19caf66e-e64e-802f-bbba-fe4c9e5ba9f0"></a>
