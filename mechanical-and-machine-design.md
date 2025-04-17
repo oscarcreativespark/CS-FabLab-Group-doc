@@ -39,6 +39,14 @@ Type here
 ### **Mechanical Design (part 1 of 2)** <a href="#id-19caf66e-e64e-806f-a181-fb94fbc4acda" id="id-19caf66e-e64e-806f-a181-fb94fbc4acda"></a>
 
 Type here
+<figure><img src=".gitbook/docs/img/w12/12_pic_01 - 1.jpeg" alt=""><figcaption>fig tag</figcaption></figure>
+
+gitbook tag
+
+![](.gitbook/docs/img/w12/12_pic_01 - 1.jpeg){width="100%"}
+
+Carl tag
+
 
 ### **Machine Design (part 2 of 2)** <a href="#id-19caf66e-e64e-802f-bbba-fe4c9e5ba9f0" id="id-19caf66e-e64e-802f-bbba-fe4c9e5ba9f0"></a>
 
