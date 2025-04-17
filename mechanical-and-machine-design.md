@@ -12,7 +12,6 @@
 
 * Actuate and automate your machine
 * Document the group project
-* This is an edit from carl
 
 ***
 
