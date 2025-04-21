@@ -17,8 +17,6 @@
 
 ### About this week <a href="#id-19caf66e-e64e-8057-8ecc-ddd585390c2c" id="id-19caf66e-e64e-8057-8ecc-ddd585390c2c"></a>
 
-> _Briefly describe the goal of the assignment. What are you characterizing, testing, or exploring_
-
 For mechanical and machine design our group will be designing and building a rotocasting machine from upcycled 3D printer components.
 
 Rotocasting, is a process where a mould is partially filled with a self casting material and rotated about 2 axis so as to create a hollow part, ideally with an even wall thickness
@@ -36,14 +34,10 @@ Rotocasting, is a process where a mould is partially filled with a self casting 
 > _Ultimaker 2 (used for parts)_
 >
 > _Makerbot Replicator 2 (used for parts)_
->
->
 
 ***
 
 ### Process and methodology <a href="#id-19caf66e-e64e-805f-9104-c8b7ba0a1c3f" id="id-19caf66e-e64e-805f-9104-c8b7ba0a1c3f"></a>
-
-> Describe step-by-step what the group did. Include sketches, screenshots, or videos if possible.
 
 ### **Mechanical Design (part 1 of 2)** <a href="#id-19caf66e-e64e-806f-a181-fb94fbc4acda" id="id-19caf66e-e64e-806f-a181-fb94fbc4acda"></a>
 
@@ -108,19 +102,19 @@ And using 'insert component' it was brought into Diarmuid design so we had a com
 
 <figure><img src="docs/img/w12/w12-9.jpeg" alt=""><figcaption><p>fig tag</p></figcaption></figure>
 
-And the full set were printed on Carls Bambu Lab P1s
+And the full set were printed on Carls Bambu Lab P1s -&#x20;
 
-<figure><img src="docs/img/w12/w12-10.jpeg" alt=""><figcaption><p>fig tag</p></figcaption></figure>
+{% embed url="https://fabacademy.org/2025/labs/creativespark/students/carl-mcateer/video/w12-printer.mp4" %}
 
-TODO
+Where possible we designed parts around press fits as this is a relibably assembly method with 3D printed parts - such as the skateboard bearings in these 3d printed idlers.
 
 <figure><img src="docs/img/w12/w12-11.jpeg" alt=""><figcaption><p>fig tag</p></figcaption></figure>
 
-TODO
+Full assembly for outer ring showen below
 
 <figure><img src="docs/img/w12/w12-12.jpeg" alt=""><figcaption><p>fig tag</p></figcaption></figure>
 
-TODO
+While Thom and Diarmud&#x20;
 
 <figure><img src="docs/img/w12/w12-13.jpeg" alt=""><figcaption><p>fig tag</p></figcaption></figure>
 
