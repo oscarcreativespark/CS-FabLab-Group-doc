@@ -1,6 +1,6 @@
 # Mechanical and machine design
 
-&#x20;would💡Group assignment (part 1 of 2) - Mechanical design
+&#x20;💡 Group assignment (part 1 of 2) - Mechanical design
 
 * Design a [machine](http://machines.fabcloud.io/) that includes mechanism + actuation + automation + application
 * Build the mechanical parts and operate it manually
@@ -8,7 +8,7 @@
 
 ***
 
-💡Group assignment (part 2 of 2) - Machine design
+💡 Group assignment (part 2 of 2) - Machine design
 
 * Actuate and automate your machine
 * Document the group project
@@ -19,7 +19,9 @@
 
 > _Briefly describe the goal of the assignment. What are you characterizing, testing, or exploring_
 
-Type here
+For mechanical and machine design our group will be designing and building a rotocasting machine from upcycled 3D printer components.
+
+Rotocasting, is a process where a mould is partially filled with a self casting material and rotated about 2 axis so as to create a hollow part, ideally with an even wall thickness
 
 ***
 
@@ -34,8 +36,8 @@ Type here
 > _Ultimaker 2 (used for parts)_
 >
 > _Makerbot Replicator 2 (used for parts)_
-
-* Type here
+>
+>
 
 ***
 
@@ -47,9 +49,9 @@ Type here
 
 We set out to design a rotational casting/moulding machine. We started with the initial sketches we had in our notebooks and digital sketching tools.
 
-<figure><img src="docs/img/w12/w12-1.jpeg" alt=""><figcaption><p>Some concept sketches Diarmuids notebook.</p></figcaption></figure>
+<figure><img src="docs/img/w12/w12-1.jpeg" alt=""><figcaption><p>Some concept sketches Diarmuid's notebook.</p></figcaption></figure>
 
-TODO
+This development through sketches was where we came up with our overall structure or having 3D printed components being sandwiched between laser cut ones
 
 <figure><img src="docs/img/w12/w12-2.jpeg" alt=""><figcaption><p>Carl doing some development sketches.</p></figcaption></figure>
 
@@ -75,27 +77,38 @@ We measured the belt a bit more accurately the second time and got something tha
 
 <figure><img src="docs/img/w12/w12-8.jpeg" alt=""><figcaption><p>fig tag</p></figcaption></figure>
 
+Once we were happy that the dimensions of the outside ring would accommodate the belts we were using we started to build of the full cad model for manufacture.
+
+* Base - Carl - CNC'd bottom and lasercut uprights taken from the ultimaker 2 side panels
+* Outer Ring - Diarmuid - This is the most complex assembly as it contains the structure that holds the inner ring, but also all the gearing and the belt tensioning system.
+* Inner Ring - Carl - This is the piece that will hold the mold so needs to be robus and light weight as this is the fastest part of the product due to the 4:1 gearing.
+* Electronics and programing - Thom - Thom&#x20;
+
 Think we need to add images here of the test laser cuts
 
 We laser cut ¼ of the arm that was going to be used
 
+The Inner ring consists of 8 identical 3D printed parts that are sandwiched between 2 MDF rings.
 
+As all the parts are identical they needed to be multifunctional
 
-TODO
+So they could each hold:
+
+* 2 skateboard bearings
+* 1 belt pulley from the ultimaker to retain the drive axis
+* 2 mounting points for the mould assembly
 
 <figure><img src="docs/img/w12/w12-6.jpeg" alt=""><figcaption><p>fig tag</p></figcaption></figure>
 
-TODO
+The full assembly was created in fusion 360
 
 <figure><img src="docs/img/w12/w12-7.jpeg" alt=""><figcaption><p>fig tag</p></figcaption></figure>
 
-TODO
-
-TODO
+And using 'insert component' it was brought into Diarmuid design so we had a complete CAD model
 
 <figure><img src="docs/img/w12/w12-9.jpeg" alt=""><figcaption><p>fig tag</p></figcaption></figure>
 
-TODO
+And the full set were printed on Carls Bambu Lab P1s
 
 <figure><img src="docs/img/w12/w12-10.jpeg" alt=""><figcaption><p>fig tag</p></figcaption></figure>
 
