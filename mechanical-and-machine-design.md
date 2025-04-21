@@ -23,6 +23,16 @@ Rotocasting, is a process where a mould is partially filled with a self casting 
 
 ***
 
+### Key roles and responsibility for the project:
+
+* Diarmuid Kelly - Mechanical Design Lead
+* Carl McAteer - Fabrication Lead
+* Thom Conaty - Electronic Design Lead
+
+While these are our areas of responsibility there is significant areas of overlap throughout the project.
+
+***
+
 ### Tools and materials used <a href="#id-19caf66e-e64e-8066-9139-ccc89444c8ba" id="id-19caf66e-e64e-8066-9139-ccc89444c8ba"></a>
 
 > _Autodesk Fusion_
@@ -50,6 +60,8 @@ This development through sketches was where we came up with our overall structur
 <figure><img src="docs/img/w12/w12-2.jpeg" alt=""><figcaption><p>Carl doing some development sketches.</p></figcaption></figure>
 
 Diarmuid took Carl's concept sketches and worked up an initial CAD model in Autodesk Fusion
+
+He also took the time to set up a shared fusion 360 workspace so that all our files for the project were in one place.
 
 <figure><img src="docs/img/w12/w12-3.jpeg" alt=""><figcaption><p>Using Sketch as Canvase in Autodesk Fusion</p></figcaption></figure>
 
@@ -114,59 +126,61 @@ Full assembly for outer ring showen below
 
 <figure><img src="docs/img/w12/w12-12.jpeg" alt=""><figcaption><p>fig tag</p></figcaption></figure>
 
-While Thom and Diarmud&#x20;
+While Carl and Diarmud worked on the mecinacial design Thom created the electronic design for the project, here he is de soldering power supply components from the Ultimaker main board.
 
 <figure><img src="docs/img/w12/w12-13.jpeg" alt=""><figcaption><p>fig tag</p></figcaption></figure>
 
-TODO
+The linear rods from the Ultimaker were cut into sections using an angle grinder and used as the axles for the rotocasting machine.
 
 <figure><img src="docs/img/w12/w12-14.jpeg" alt=""><figcaption><p>fig tag</p></figcaption></figure>
 
-TODO
+The angle grinder can leave a shap edge so all pieces were finished on the bench grinder
 
 <figure><img src="docs/img/w12/w12-15.jpeg" alt=""><figcaption><p>fig tag</p></figcaption></figure>
 
-TODO
+This shows how we transmitted drive through the axles, the pulley from the ultimaker motion system was captured in between the 2 halves of the print and the grub screw was used to hold the axle in place.
 
 <figure><img src="docs/img/w12/w12-16.jpeg" alt=""><figcaption><p>fig tag</p></figcaption></figure>
 
-TODO
+The  assembly of the outer ring
 
 <figure><img src="docs/img/w12/w12-17.jpeg" alt=""><figcaption><p>fig tag</p></figcaption></figure>
 
-TODO
+The longer linear rails from the makerbot were used to align the printed components.
 
 <figure><img src="docs/img/w12/w12-18.jpeg" alt=""><figcaption><p>fig tag</p></figcaption></figure>
 
-TODO
+We just had to be careful not to knock them together to hard!
 
 <figure><img src="docs/img/w12/w12-19.jpeg" alt=""><figcaption><p>fig tag</p></figcaption></figure>
 
-TODO
+Same process was used for the inner ring, it used a captured pulley on one end and a set of skateboard bearings on the other.
 
 <figure><img src="docs/img/w12/w12-20.jpeg" alt=""><figcaption><p>fig tag</p></figcaption></figure>
 
-TODO
+Giving it a spin!
 
 <figure><img src="docs/img/w12/w12-22.jpeg" alt=""><figcaption><p>fig tag</p></figcaption></figure>
 
-TODO
+The completed ring assembly with belts attached. The critical element of this is the 4:1 gearing, so each time the big ring spins once the inner ring spins 4 times. This allows the contents of the mold to be spread evenly, assuming a relatively evenly proportioned mold.
 
 <figure><img src="docs/img/w12/w12-23.jpeg" alt=""><figcaption><p>fig tag</p></figcaption></figure>
 
-TODO
+The side panels were lasercut from the acrylic panels from the ultimaker
 
 <figure><img src="docs/img/w12/w12-24.jpeg" alt=""><figcaption><p>fig tag</p></figcaption></figure>
 
-TODO
+And the parts were dry fit together
 
 <figure><img src="docs/img/w12/w12-25.jpeg" alt=""><figcaption><p>fig tag</p></figcaption></figure>
 
-TODO
+{% embed url="https://fabacademy.org/2025/labs/creativespark/students/carl-mcateer/video/w12-cnc.mp4" %}
+
+The base was cut out of 24mm plywood as we wanted something heavy to keep the machine from rocking in operation
 
 <figure><img src="docs/img/w12/w12-26.jpeg" alt=""><figcaption><p>fig tag</p></figcaption></figure>
 
-TODO
+Removing the piece from the CNC
 
 ### **Machine Design (part 2 of 2)** <a href="#id-19caf66e-e64e-802f-bbba-fe4c9e5ba9f0" id="id-19caf66e-e64e-802f-bbba-fe4c9e5ba9f0"></a>
 
