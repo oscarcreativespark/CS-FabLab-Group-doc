@@ -184,7 +184,7 @@ Removing the piece from the CNC
 
 ### **Machine Design (part 2 of 2)** <a href="#id-19caf66e-e64e-802f-bbba-fe4c9e5ba9f0" id="id-19caf66e-e64e-802f-bbba-fe4c9e5ba9f0"></a>
 
-<figure><img src="docs/img/w12/w12-02-1.jpeg" alt=""></figure>
+<figure><img src="docs/img/w12/w12-02-1.jpeg" alt="" width = '100%'></figure>
 
 TODO
 
