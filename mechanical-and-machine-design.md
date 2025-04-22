@@ -71,7 +71,7 @@ We used the Canvas feature in Autodesk Fusion to insert one of the selected conc
 
 Diarmuid took apart the Makerbot Replicator 2 and Carl took apart the Ultimaker 2. Both of these printers were donated machines - the replicator from South West College and the Ultimaker from Stweart Lawn from Manerhamilton Fab Lab  - thank you to both for donating the printers.
 
-<figure><img src="docs/img/w12/w12-5.jpeg" alt=""><figcaption><p>fig tag</p></figcaption></figure>
+<figure><img src="docs/img/w12/w12-5.jpeg" alt=""><figcaption><p></p></figcaption></figure>
 
 We wanted to keep the design simple so as to reduce gears and drive shafts needed we wondered if it would be possible to bend the belt around the corner. Constrained by the belt sizes we had salvaged from the Makerbot and Ultimaker printers, we decided to pick the longest - the Replicator X axis belt. To confirm the size, we printed a ¼ section that was using the belt to drive around the corner. This initial test piece was too small.
 
@@ -81,7 +81,7 @@ We measured the belt a bit more accurately the second time and got something tha
 
 <figure><img src=".gitbook/assets/12_pic_01 - 5.jpeg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="docs/img/w12/w12-8.jpeg" alt=""><figcaption><p>fig tag</p></figcaption></figure>
+<figure><img src="docs/img/w12/w12-8.jpeg" alt=""><figcaption><p></p></figcaption></figure>
 
 Once we were happy that the dimensions of the outside ring would accommodate the belts we were using we started to build of the full cad model for manufacture.
 
@@ -104,15 +104,15 @@ So they could each hold:
 * 1 belt pulley from the ultimaker to retain the drive axis
 * 2 mounting points for the mould assembly
 
-<figure><img src="docs/img/w12/w12-6.jpeg" alt=""><figcaption><p>fig tag</p></figcaption></figure>
+<figure><img src="docs/img/w12/w12-6.jpeg" alt=""><figcaption><p></p></figcaption></figure>
 
 The full assembly was created in fusion 360
 
-<figure><img src="docs/img/w12/w12-7.jpeg" alt=""><figcaption><p>fig tag</p></figcaption></figure>
+<figure><img src="docs/img/w12/w12-7.jpeg" alt=""><figcaption><p></p></figcaption></figure>
 
 And using 'insert component' it was brought into Diarmuid design so we had a complete CAD model
 
-<figure><img src="docs/img/w12/w12-9.jpeg" alt=""><figcaption><p>fig tag</p></figcaption></figure>
+<figure><img src="docs/img/w12/w12-9.jpeg" alt=""><figcaption><p></p></figcaption></figure>
 
 And the full set were printed on Carls Bambu Lab P1s -&#x20;
 
@@ -120,71 +120,133 @@ And the full set were printed on Carls Bambu Lab P1s -&#x20;
 
 Where possible we designed parts around press fits as this is a relibably assembly method with 3D printed parts - such as the skateboard bearings in these 3d printed idlers.
 
-<figure><img src="docs/img/w12/w12-11.jpeg" alt=""><figcaption><p>fig tag</p></figcaption></figure>
+<figure><img src="docs/img/w12/w12-11.jpeg" alt=""><figcaption><p></p></figcaption></figure>
 
 Full assembly for outer ring showen below
 
-<figure><img src="docs/img/w12/w12-12.jpeg" alt=""><figcaption><p>fig tag</p></figcaption></figure>
+<figure><img src="docs/img/w12/w12-12.jpeg" alt=""><figcaption><p></p></figcaption></figure>
 
 While Carl and Diarmud worked on the mecinacial design Thom created the electronic design for the project, here he is de soldering power supply components from the Ultimaker main board.
 
-<figure><img src="docs/img/w12/w12-13.jpeg" alt=""><figcaption><p>fig tag</p></figcaption></figure>
+<figure><img src="docs/img/w12/w12-13.jpeg" alt=""><figcaption><p></p></figcaption></figure>
 
 The linear rods from the Ultimaker were cut into sections using an angle grinder and used as the axles for the rotocasting machine.
 
-<figure><img src="docs/img/w12/w12-14.jpeg" alt=""><figcaption><p>fig tag</p></figcaption></figure>
+<figure><img src="docs/img/w12/w12-14.jpeg" alt=""><figcaption><p></p></figcaption></figure>
 
 The angle grinder can leave a shap edge so all pieces were finished on the bench grinder
 
-<figure><img src="docs/img/w12/w12-15.jpeg" alt=""><figcaption><p>fig tag</p></figcaption></figure>
+<figure><img src="docs/img/w12/w12-15.jpeg" alt=""><figcaption><p></p></figcaption></figure>
 
 This shows how we transmitted drive through the axles, the pulley from the ultimaker motion system was captured in between the 2 halves of the print and the grub screw was used to hold the axle in place.
 
-<figure><img src="docs/img/w12/w12-16.jpeg" alt=""><figcaption><p>fig tag</p></figcaption></figure>
+<figure><img src="docs/img/w12/w12-16.jpeg" alt=""><figcaption><p></p></figcaption></figure>
 
 The  assembly of the outer ring
 
-<figure><img src="docs/img/w12/w12-17.jpeg" alt=""><figcaption><p>fig tag</p></figcaption></figure>
+<figure><img src="docs/img/w12/w12-17.jpeg" alt=""><figcaption><p></p></figcaption></figure>
 
 The longer linear rails from the makerbot were used to align the printed components.
 
-<figure><img src="docs/img/w12/w12-18.jpeg" alt=""><figcaption><p>fig tag</p></figcaption></figure>
+<figure><img src="docs/img/w12/w12-18.jpeg" alt=""><figcaption><p></p></figcaption></figure>
 
 We just had to be careful not to knock them together to hard!
 
-<figure><img src="docs/img/w12/w12-19.jpeg" alt=""><figcaption><p>fig tag</p></figcaption></figure>
+<figure><img src="docs/img/w12/w12-19.jpeg" alt=""><figcaption><p></p></figcaption></figure>
 
 Same process was used for the inner ring, it used a captured pulley on one end and a set of skateboard bearings on the other.
 
-<figure><img src="docs/img/w12/w12-20.jpeg" alt=""><figcaption><p>fig tag</p></figcaption></figure>
+<figure><img src="docs/img/w12/w12-20.jpeg" alt=""><figcaption><p></p></figcaption></figure>
 
 Giving it a spin!
 
-<figure><img src="docs/img/w12/w12-22.jpeg" alt=""><figcaption><p>fig tag</p></figcaption></figure>
+<figure><img src="docs/img/w12/w12-22.jpeg" alt=""><figcaption><p></p></figcaption></figure>
 
 The completed ring assembly with belts attached. The critical element of this is the 4:1 gearing, so each time the big ring spins once the inner ring spins 4 times. This allows the contents of the mold to be spread evenly, assuming a relatively evenly proportioned mold.
 
-<figure><img src="docs/img/w12/w12-23.jpeg" alt=""><figcaption><p>fig tag</p></figcaption></figure>
+<figure><img src="docs/img/w12/w12-23.jpeg" alt=""><figcaption><p></p></figcaption></figure>
 
 The side panels were lasercut from the acrylic panels from the ultimaker
 
-<figure><img src="docs/img/w12/w12-24.jpeg" alt=""><figcaption><p>fig tag</p></figcaption></figure>
+<figure><img src="docs/img/w12/w12-24.jpeg" alt=""><figcaption><p></p></figcaption></figure>
 
 And the parts were dry fit together
 
-<figure><img src="docs/img/w12/w12-25.jpeg" alt=""><figcaption><p>fig tag</p></figcaption></figure>
+<figure><img src="docs/img/w12/w12-25.jpeg" alt=""><figcaption><p></p></figcaption></figure>
 
 {% embed url="https://fabacademy.org/2025/labs/creativespark/students/carl-mcateer/video/w12-cnc.mp4" %}
 
 The base was cut out of 24mm plywood as we wanted something heavy to keep the machine from rocking in operation
 
-<figure><img src="docs/img/w12/w12-26.jpeg" alt=""><figcaption><p>fig tag</p></figcaption></figure>
+<figure><img src="docs/img/w12/w12-26.jpeg" alt=""><figcaption><p></p></figcaption></figure>
 
 Removing the piece from the CNC
 
 ### **Machine Design (part 2 of 2)** <a href="#id-19caf66e-e64e-802f-bbba-fe4c9e5ba9f0" id="id-19caf66e-e64e-802f-bbba-fe4c9e5ba9f0"></a>
 
-Type here
+<figure><img src="docs/img/w12/w12-02-1.jpeg" alt=""><figcaption><p></p></figcaption></figure>
+
+TODO
+
+<figure><img src="docs/img/w12/w12-02-2.jpeg" alt=""><figcaption><p></p></figcaption></figure>
+
+TODO
+
+<figure><img src="docs/img/w12/w12-02-3.jpeg" alt=""><figcaption><p></p></figcaption></figure>
+
+TODO
+
+<figure><img src="docs/img/w12/w12-02-4.jpeg" alt=""><figcaption><p></p></figcaption></figure>
+
+TODO
+
+<figure><img src="docs/img/w12/w12-02-5.jpeg" alt=""><figcaption><p></p></figcaption></figure>
+
+TODO
+
+<figure><img src="docs/img/w12/w12-02-6.jpeg" alt=""><figcaption><p></p></figcaption></figure>
+
+TODO
+
+<figure><img src="docs/img/w12/w12-02-7.jpeg" alt=""><figcaption><p></p></figcaption></figure>
+
+TODO
+
+<figure><img src="docs/img/w12/w12-02-8.jpeg" alt=""><figcaption><p></p></figcaption></figure>
+
+TODO
+
+<figure><img src="docs/img/w12/w12-02-9.jpeg" alt=""><figcaption><p></p></figcaption></figure>
+
+TODO
+
+<figure><img src="docs/img/w12/w12-02-10.jpeg" alt=""><figcaption><p></p></figcaption></figure>
+
+TODO
+
+<figure><img src="docs/img/w12/w12-02-11.jpeg" alt=""><figcaption><p></p></figcaption></figure>
+
+TODO
+
+<figure><img src="docs/img/w12/w12-02-12.jpeg" alt=""><figcaption><p></p></figcaption></figure>
+
+TODO
+
+<figure><img src="docs/img/w12/w12-02-13.jpeg" alt=""><figcaption><p></p></figcaption></figure>
+
+TODO
+
+<figure><img src="docs/img/w12/w12-02-14.jpeg" alt=""><figcaption><p></p></figcaption></figure>
+
+TODO
+
+<figure><img src="docs/img/w12/w12-02-15.jpeg" alt=""><figcaption><p></p></figcaption></figure>
+
+TODO
+
+<figure><img src="docs/img/w12/w12-02-16.jpeg" alt=""><figcaption><p></p></figcaption></figure>
+
+TODO
 
 ***
 
