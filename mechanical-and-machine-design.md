@@ -184,9 +184,6 @@ Removing the piece from the CNC
 
 ### **Machine Design (part 2 of 2)** <a href="#id-19caf66e-e64e-802f-bbba-fe4c9e5ba9f0" id="id-19caf66e-e64e-802f-bbba-fe4c9e5ba9f0"></a>
 
-<figure><img src="docs/img/w12/w12-02-1.jpeg" alt="" width = '100%'></figure>
-
-TODO
 
 <figure><img src="docs/img/w12/w12-02-2.jpeg" alt=""></figure>
 
@@ -247,6 +244,8 @@ TODO
 <figure><img src="docs/img/w12/w12-02-16.jpeg" alt=""></figure>
 
 TODO
+
+{% embed url="https://fabacademy.org/2025/labs/creativespark/students/carl-mcateer/video/w12-video-3.mp4" %}
 
 ***
 
