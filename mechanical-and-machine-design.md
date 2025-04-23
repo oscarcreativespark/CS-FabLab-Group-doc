@@ -270,7 +270,7 @@ TEXT for presentation slide
 * Belt gears from Ultimaker 2
 * 4:1 Ratio inner to outer ring rotation&#x20;
 
-Ice Cream Samneadge - got its name from the appearance of an ice cream wafer. Printed parts are the ice cream, and the laser-cut ply is the wafer - we wanted to build something that would be relatively simple to produce and programme. We also figured it would run nicely into our moulding and casting week.&#x20;
+Ice Cream Sandwich - got its name from the appearance of an ice cream wafer. Printed parts are the ice cream, and the laser-cut ply is the wafer - we wanted to build something that would be relatively simple to produce and programme. We also figured it would run nicely into our moulding and casting week.&#x20;
 
 Team members:&#x20;
 
