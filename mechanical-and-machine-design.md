@@ -283,7 +283,8 @@ Our final system integration jobs were to add the enclosure and the fan for the 
 
 > **Solutions:** \[How did you solve them?]
 >
-> * **Use what you have available** - we made decisions thinking that we would revised them later but due to time constraints were not realize this was a mistake. For example we should have made the rings out of plywood as it would have been stronger, the MDF was only ment to be temporary.
+> * **Use what you have available** - As the intedned board was not functoning we had get the machiene operational on the last day so we used what was avaliable - an ardunino mega with a ramps 1.4 shield. We realise that this was overkill for the requirements but we would be able to get it wrking at least. We do intend to go back and get the intened board operational.&#x20;
+> *
 
 Type here
 
