@@ -1,6 +1,6 @@
 # Mechanical and machine design
 
-[https://fabacademy.org/2025/labs/creativespark/students/carl-mcateer/video/w12-video-3.mp4](https://fabacademy.org/2025/labs/creativespark/students/carl-mcateer/video/w12-video-3.mp4)💡 Group assignment (part 1 of 2) - Mechanical design
+💡 Group assignment (part 1 of 2) - Mechanical design
 
 * Design a [machine](http://machines.fabcloud.io/) that includes a mechanism + actuation + automation + application
 * Build the mechanical parts and operate it manually
