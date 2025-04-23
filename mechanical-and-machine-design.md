@@ -98,7 +98,7 @@ Once we were happy that the dimensions of the outside ring would accommodate the
 * Base - Carl - CNC'd bottom and laser-cut uprights taken from the Ultimaker 2 side panels
 * Outer Ring - Diarmuid - This is the most complex assembly as it contains the structure that holds the inner ring, but also all the gearing and the belt tensioning system.
 * Inner Ring - Carl - This is the piece that will hold the mould, so it needs to be robust and lightweight, as this is the fastest part of the product due to the 4:1 gearing.
-* Electronics and programming - Thom - Thom
+* Electronics and programming - Thom - Our control unit would enable control of the rate and duration of the rotocaster movement via RP2040 which output controls to a stepper motor control board and OLED screen (with rotary encoder and button for menu select) which controlled the Nemo 17 stepper motor.
 
 Think we need to add images here of the test laser cuts
 
@@ -138,7 +138,7 @@ Full assembly for the outer ring is shown below
 
 While Carl and Diarmud worked on the mechanical design, Thom created the electronic design for the project. Here he is desoldering power supply components from the Ultimaker main board.
 
-<figure><img src="docs/img/w12/w12-13.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="docs/img/w12/w12-13.jpeg" alt=""><figcaption><p>Desoldering the power circuit from the non-functional Ultimaker 2</p></figcaption></figure>
 
 The linear rods from the Ultimaker were cut into sections using an angle grinder and used as the axles for the rotocasting machine.
 
@@ -194,11 +194,33 @@ Removing the piece from the CNC
 
 ### **Machine Design (part 2 of 2)** <a href="#id-19caf66e-e64e-802f-bbba-fe4c9e5ba9f0" id="id-19caf66e-e64e-802f-bbba-fe4c9e5ba9f0"></a>
 
-TODO -
+### Electronic Control Board
 
-<figure><img src="docs/img/w12/w12-02-2.jpeg" alt=""><figcaption></figcaption></figure>
+#### Electronic Control Board - Idea 1: Recycled Power and Voltage Regulation Electronics&#x20;
 
-TODO -&#x20;
+In order to meet the design requirements of having both control of a 24v stepper motor and microcontroller let control, the opportunity to recycle the power circuit from an old Ultimaker 2, SLA 3D printer was explored.&#x20;
+
+The parts required were identified from the schematic and (open source) board files and desoldered from the board.
+
+![](<.gitbook/assets/Screenshot 2025-04-23 113914.jpg>)![](<.gitbook/assets/Screenshot 2025-04-15 155850.jpg>)
+
+\[Image - Desoldering parts]
+
+Although this presented a feasible route to a shared power system, the limitation of the available tooling bits for our mill (Roland SRM-20), it proved impossible to mill accurately enough for the QFN packaging of the 24 - 5v regulator.&#x20;
+
+<figure><img src=".gitbook/assets/IMG_20250423_113044332.jpg" alt=""><figcaption><p>Unsuccessful Milling Tests for QFN Package</p></figcaption></figure>
+
+#### Electronic Control Board - Idea 2: Recycled Power Input Electronics, Seperate Voltage Lines
+
+Compromising on our inability to repurpose the shared electrical input with voltage regulation (to accomodate servo control and powering the microcontroller), we limited ourselves to recycling on the 24V power input circuit for the servo, and leveraging USB power for the RP2040. We kept the use of the OLED as well as the rotary encoder and button for system controls.
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Circuit design with Separate Power Rails</p></figcaption></figure>
+
+<figure><img src="docs/img/w12/w12-02-2.jpeg" alt=""><figcaption><p>Control board hosting RP2040, stepper motor control board, OLED and control inputs. </p></figcaption></figure>
+
+Despite our best efforts, difficulties milling the board and the looming time constraints pushed us to revert to a final, simpler iteration of the control board design and automation functions.
+
+#### Idea 3: Recycled RepRap servo board (Arduino) and Arduino IDE&#x20;
 
 <figure><img src="docs/img/w12/w12-02-3.jpeg" alt=""><figcaption></figcaption></figure>
 
