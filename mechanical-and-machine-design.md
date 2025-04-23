@@ -45,6 +45,8 @@ While these are our areas of responsibility, there are significant areas of over
 >
 > _Prusa Slicer_
 >
+> _Arduino IDE_
+>
 > _Ultimaker 2 (used for parts)_
 >
 > _Makerbot Replicator 2 (used for parts)_
@@ -69,7 +71,7 @@ He also took the time to set up a shared Fusion 360 workspace so that all our fi
 
 <figure><img src="docs/img/w12/w12-3.jpeg" alt=""><figcaption><p>Using Sketch as Canvase in Autodesk Fusion</p></figcaption></figure>
 
-We used the Canvas feature in Autodesk Fusion to insert one of the selected concept sketches. This was calibrated to size so we could sketch to actual size. To do this, right-click on the canvas in the Fusion Browser and click calibrate. Select two points of known dimension and enter the desired dimension. Your canvas will now resize.
+We used the Canvas feature in Autodesk Fusion to insert one of the selected concept sketches. This was calibrated to size so we could sketch to actual size. To do this, right-click on the canvas in the Fusion Browser and click Calibrate. Select two points of known dimension and enter the desired dimension. Your canvas will now resize.
 
 <figure><img src="docs/img/w12/w12-4.jpeg" alt=""><figcaption><p>MakerBot Replicator 2 - disacembled</p></figcaption></figure>
 
@@ -170,7 +172,7 @@ The completed ring assembly with belts attached. The critical element of this is
 
 <figure><img src="docs/img/w12/w12-23.jpeg" alt=""><figcaption></figcaption></figure>
 
-The side panels were laser-cut from the acrylic panels from the Ultimaker
+The side panels were laser-cut from the acrylic panels of the Ultimaker
 
 <figure><img src="docs/img/w12/w12-24.jpeg" alt=""><figcaption></figcaption></figure>
 
@@ -256,6 +258,15 @@ We took inspiration from how the panels were connected on the Ultimaker 2 to con
 Our final system integration jobs were to add the enclosure and the fan for the electronics.
 
 {% embed url="https://fabacademy.org/2025/labs/creativespark/students/carl-mcateer/video/w12-video-3.mp4" %}
+
+TEXT for presentation slide
+
+* Upcycled from Replicator 2 and Ultimaker 2&#x20;
+* X Axis belt from Replicator 2
+* Acrylic sides laser cut from Ultimaker 2
+* Stepper Motor from Ultimaker
+* Belt gears from Ultimaker 2
+* 4:1 Ratio inner to outer ring rotation&#x20;
 
 ***
 
