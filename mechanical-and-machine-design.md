@@ -283,7 +283,7 @@ Our final system integration jobs were to add the enclosure and the fan for the 
 
 > **Solutions:** \[How did you solve them?]
 >
-> * **Use what you have available** - As the intedned board was not functoning we had get the machiene operational on the last day so we used what was avaliable - an ardunino mega with a ramps 1.4 shield. We realise that this was overkill for the requirements but we would be able to get it wrking at least. We do intend to go back and get the intened board operational.&#x20;
+> * **Utilizing Available Resources** - Since the intended board was not functioning, we had to get the machine operational on the last day. We used what was available—an Arduino Mega with a RAMPS 1.4 shield. We realize that this was overkill for the requirements, but it at least allowed us to get it working. We plan to revisit this and get the intended board operationl this week.
 > *
 
 Type here
