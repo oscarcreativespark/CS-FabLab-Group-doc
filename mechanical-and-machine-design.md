@@ -230,19 +230,19 @@ TODO
 
 <figure><img src="docs/img/w12/w12-02-13.jpeg" alt=""><figcaption></figcaption></figure>
 
-TODO
+We used some spare parts to decided how much weight we needed to add to the other side of the wheel in order to balance it with the load on the stepper.
 
 <figure><img src="docs/img/w12/w12-02-14.jpeg" alt=""><figcaption></figcaption></figure>
 
-TODO
+While we reassembled the machine we took the opportunity to loosen the belt tension.
 
 <figure><img src="docs/img/w12/w12-02-15.jpeg" alt=""><figcaption></figcaption></figure>
 
-TODO
+We took inspiration from how the panels were connected on the Ultimaker 2 to connect the machine to the base
 
 <figure><img src="docs/img/w12/w12-02-16.jpeg" alt=""><figcaption></figcaption></figure>
 
-TODO
+Our final system integration jobs were to add the enclosure and the fan for the electronics.
 
 {% embed url="https://fabacademy.org/2025/labs/creativespark/students/carl-mcateer/video/w12-video-3.mp4" %}
 
@@ -251,6 +251,8 @@ TODO
 ### Group conclusions <a href="#id-19caf66e-e64e-80af-bf32-f202965a9eaf" id="id-19caf66e-e64e-80af-bf32-f202965a9eaf"></a>
 
 > **Findings:** \[What did you learn from the process?]
+>
+> * **There is no MKII** - we made decisions thinking that we would revised them later but due to time constraints were not realize this was a mistake. For example we should have made the rings out of plywood as it would have been stronger, the MDF was only ment to be temporary.
 
 > **Challenges:** \[What issues did you encounter?]
 
