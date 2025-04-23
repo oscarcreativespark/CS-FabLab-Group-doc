@@ -1,6 +1,6 @@
 # Mechanical and machine design
 
-💡 Group assignment (part 1 of 2) - Mechanical design
+[https://fabacademy.org/2025/labs/creativespark/students/carl-mcateer/video/w12-video-3.mp4](https://fabacademy.org/2025/labs/creativespark/students/carl-mcateer/video/w12-video-3.mp4)💡 Group assignment (part 1 of 2) - Mechanical design
 
 * Design a [machine](http://machines.fabcloud.io/) that includes a mechanism + actuation + automation + application
 * Build the mechanical parts and operate it manually
@@ -19,7 +19,11 @@
 
 For mechanical and machine design, our group will be designing and building a rotocasting machine from upcycled 3d printer components.
 
-Rotocasting is a process where a mould is partially filled with a self-casting material and rotated about 2 axes so as to create a hollow part, ideally with an even wall thickness
+Roto-Casting is a process where a mold is partially filled with a self-casting material and rotated about 2 axes so as to create a hollow part, ideally with an even wall thickness
+
+***
+
+{% embed url="https://fabacademy.org/2025/labs/creativespark/students/carl-mcateer/video/abomination.mp4" %}
 
 ***
 
