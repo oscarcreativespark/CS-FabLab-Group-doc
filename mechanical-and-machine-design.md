@@ -273,11 +273,13 @@ Our final system integration jobs were to add the enclosure and the fan for the 
 
 > **Findings:** \[What did you learn from the process?]
 >
-> * **There is no MKII** - we made decisions thinking that we would revised them later but due to time constraints were not realize this was a mistake. For example we should have made the rings out of plywood as it would have been stronger, the MDF was only ment to be temporary.
+> * **There is no MKII** - we made decisions thinking that we would revised them later but due to time constraints were not realize this was a mistake. For example we should have made the rings out of plywood as it would have been stronger, the MDF was only meant to be temporary.
+> * **Using each machine to its strength -** Using a mix to printing, laser cutting and CNC was a big help for this project. CNC for big heavy parts, laser cut for large simple parts and printing for complex transition parts.
 
 > **Challenges:** \[What issues did you encounter?]
 >
-> * **There is no MKII** - we made decisions thinking that we would revised them later but due to time constraints were not realize this was a mistake. For example we should have made the rings out of plywood as it would have been stronger, the MDF was only ment to be temporary.
+> * **Integrating second like parts is sometimes changeling** - we were ambitious with our up-cycled components from the ulimaker main board and in the end we had to scrap the idea as we couldn't get it to work.
+> *
 
 > **Solutions:** \[How did you solve them?]
 >
