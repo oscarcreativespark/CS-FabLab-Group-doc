@@ -233,27 +233,27 @@ The general layout for the electrical enclosure was done in [Maker Case](https:/
 
 <figure><img src="docs/img/w12/w12-02-9.jpeg" alt=""><figcaption></figcaption></figure>
 
-TODO
+Setting up the enclosure box files in Rhino and adding some additional details, such as a fan hole and cooling vents at the top. We also had to extend the size of the box. We just selected the lower nodes in Rhino and dragged them to the desired length.&#x20;
 
 <figure><img src="docs/img/w12/w12-02-10.jpeg" alt=""><figcaption></figcaption></figure>
 
-TODO
+We added a fan to the enclosure to ensure the stepper driver would be kept cool.
 
 <figure><img src="docs/img/w12/w12-02-11.jpeg" alt=""><figcaption></figcaption></figure>
 
-TODO
+Diarmuid is drilling the counterbore for the M3 nuts that will hold the acrylic frame to the base. Note the tape marking the depth to drill. &#x20;
 
 <figure><img src="docs/img/w12/w12-02-12.jpeg" alt=""><figcaption></figcaption></figure>
 
-TODO
+Balancing with the extra weight - look at all the duct tape lol.... fear not, it's only temporary.
 
 <figure><img src="docs/img/w12/w12-02-13.jpeg" alt=""><figcaption></figcaption></figure>
 
-We used some spare parts to decided how much weight we needed to add to the other side of the wheel in order to balance it with the load on the stepper.
+We used some spare parts to decide how much weight we needed to add to the other side of the wheel to balance it with the load on the stepper.
 
 <figure><img src="docs/img/w12/w12-02-14.jpeg" alt=""><figcaption></figcaption></figure>
 
-While we reassembled the machine we took the opportunity to loosen the belt tension.
+While we reassembled the machine, we took the opportunity to loosen the belt tension.
 
 <figure><img src="docs/img/w12/w12-02-15.jpeg" alt=""><figcaption></figcaption></figure>
 
