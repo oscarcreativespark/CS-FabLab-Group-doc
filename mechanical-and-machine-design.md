@@ -21,6 +21,8 @@ For mechanical and machine design, our group will be designing and building a ro
 
 Roto-Casting is a process where a mold is partially filled with a self-casting material and rotated about 2 axes so as to create a hollow part, ideally with an even wall thickness
 
+**Ice Cream Sandwich** - got its name from the appearance of an ice cream wafer. Printed parts are the ice cream, and the laser-cut ply is the wafer - we wanted to build something that would be relatively simple to produce and programme. We also figured it would run nicely into our moulding and casting week.&#x20;
+
 ***
 
 <figure><img src=".gitbook/assets/Main Slide.jpg" alt=""><figcaption></figcaption></figure>
@@ -265,25 +267,6 @@ Our final system integration jobs were to add the enclosure and the fan for the 
 
 {% embed url="https://fabacademy.org/2025/labs/creativespark/students/carl-mcateer/video/w12-video-3.mp4" %}
 
-TEXT for presentation slide
-
-* Upcycled from Replicator 2 and Ultimaker 2&#x20;
-* X Axis belt from Replicator 2
-* Acrylic sides laser cut from Ultimaker 2
-* Stepper Motor from Ultimaker
-* Belt gears from Ultimaker 2
-* 4:1 Ratio inner to outer ring rotation&#x20;
-
-Ice Cream Sandwich - got its name from the appearance of an ice cream wafer. Printed parts are the ice cream, and the laser-cut ply is the wafer - we wanted to build something that would be relatively simple to produce and programme. We also figured it would run nicely into our moulding and casting week.&#x20;
-
-Team members:&#x20;
-
-Carl&#x20;
-
-Diarmuid
-
-Thom&#x20;
-
 ***
 
 ### Group conclusions <a href="#id-19caf66e-e64e-80af-bf32-f202965a9eaf" id="id-19caf66e-e64e-80af-bf32-f202965a9eaf"></a>
@@ -293,8 +276,12 @@ Thom&#x20;
 > * **There is no MKII** - we made decisions thinking that we would revised them later but due to time constraints were not realize this was a mistake. For example we should have made the rings out of plywood as it would have been stronger, the MDF was only ment to be temporary.
 
 > **Challenges:** \[What issues did you encounter?]
+>
+> * **There is no MKII** - we made decisions thinking that we would revised them later but due to time constraints were not realize this was a mistake. For example we should have made the rings out of plywood as it would have been stronger, the MDF was only ment to be temporary.
 
 > **Solutions:** \[How did you solve them?]
+>
+> * **Use what you have available** - we made decisions thinking that we would revised them later but due to time constraints were not realize this was a mistake. For example we should have made the rings out of plywood as it would have been stronger, the MDF was only ment to be temporary.
 
 Type here
 
