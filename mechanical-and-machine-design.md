@@ -279,7 +279,7 @@ Our final system integration jobs were to add the enclosure and the fan for the 
 > **Challenges:** \[What issues did you encounter?]
 >
 > * **Integrating second like parts is sometimes changeling** - we were ambitious with our up-cycled components from the ulimaker main board and in the end we had to scrap the idea as we couldn't get it to work.
-> *
+> * Working in Autodesk Fusion as a team was a challenge, as we were referencing multiple parts with each team member having different approaches to designing and creating components, such as internally referenced or externally referenced components and the location of the origin, top-down vs. bottom-up modeling. Additionally, referenced parts, if changed and updated, can break parts. On one occasion, all the printed parts disappeared from the model as the referenced McMaster-Carr component that was edited, this changed how it was referenced in most of the 3d printed parts. (We did figure it out, but it was a big "uh no monent)
 
 > **Solutions:** \[How did you solve them?]
 >
