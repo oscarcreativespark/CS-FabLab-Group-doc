@@ -2,7 +2,7 @@
 
 💡 Group assignment (part 1 of 2) - Mechanical design
 
-* Design a [machine](http://machines.fabcloud.io/) that includes mechanism + actuation + automation + application
+* Design a [machine](http://machines.fabcloud.io/) that includes a mechanism + actuation + automation + application
 * Build the mechanical parts and operate it manually
 * Document the group project
 
@@ -17,19 +17,19 @@
 
 ### About this week <a href="#id-19caf66e-e64e-8057-8ecc-ddd585390c2c" id="id-19caf66e-e64e-8057-8ecc-ddd585390c2c"></a>
 
-For mechanical and machine design our group will be designing and building a rotocasting machine from upcycled 3D printer components.
+For mechanical and machine design, our group will be designing and building a rotocasting machine from upcycled 3d printer components.
 
-Rotocasting, is a process where a mould is partially filled with a self casting material and rotated about 2 axis so as to create a hollow part, ideally with an even wall thickness
+Rotocasting is a process where a mould is partially filled with a self-casting material and rotated about 2 axes so as to create a hollow part, ideally with an even wall thickness
 
 ***
 
-### Key roles and responsibility for the project:
+### Key roles and responsibilities for the project:
 
 * Diarmuid Kelly - Mechanical Design Lead
 * Carl McAteer - Fabrication Lead
 * Thom Conaty - Electronic Design Lead
 
-While these are our areas of responsibility there is significant areas of overlap throughout the project.
+While these are our areas of responsibility, there are significant areas of overlap throughout the project.
 
 ***
 
@@ -55,25 +55,25 @@ We set out to design a rotational casting/moulding machine. We started with the 
 
 <figure><img src="docs/img/w12/w12-1.jpeg" alt=""><figcaption><p>Some concept sketches Diarmuid's notebook.</p></figcaption></figure>
 
-This development through sketches was where we came up with our overall structure or having 3D printed components being sandwiched between laser cut ones
+This development through sketches was where we came up with our overall structure or having 3d printed components being sandwiched between laser cut ones
 
 <figure><img src="docs/img/w12/w12-2.jpeg" alt=""><figcaption><p>Carl doing some development sketches.</p></figcaption></figure>
 
 Diarmuid took Carl's concept sketches and worked up an initial CAD model in Autodesk Fusion
 
-He also took the time to set up a shared fusion 360 workspace so that all our files for the project were in one place.
+He also took the time to set up a shared Fusion 360 workspace so that all our files for the project were in one place.
 
 <figure><img src="docs/img/w12/w12-3.jpeg" alt=""><figcaption><p>Using Sketch as Canvase in Autodesk Fusion</p></figcaption></figure>
 
-We used the Canvas feature in Autodesk Fusion to insert one of the selected concept sketches. This was calibrated to size so we could sketch to actual size. To do this, right-click on the canvas in the Fusion Br0wser and click calibrate. Select two points of known dimension and enter the desired dimension. Your canvas will now resize.
+We used the Canvas feature in Autodesk Fusion to insert one of the selected concept sketches. This was calibrated to size so we could sketch to actual size. To do this, right-click on the canvas in the Fusion Browser and click calibrate. Select two points of known dimension and enter the desired dimension. Your canvas will now resize.
 
 <figure><img src="docs/img/w12/w12-4.jpeg" alt=""><figcaption><p>MakerBot Replicator 2 - disacembled</p></figcaption></figure>
 
-Diarmuid took apart the Makerbot Replicator 2 and Carl took apart the Ultimaker 2. Both of these printers were donated machines - the replicator from South West College and the Ultimaker from Stweart Lawn from Manerhamilton Fab Lab - thank you to both for donating the printers.
+Diarmuid took apart the Makerbot Replicator 2, and Carl took apart the Ultimaker 2. Both of these printers were donated machines - the replicator from South West College and the Ultimaker from Stweart Lawn from Manerhamilton Fab Lab - thank you to both for donating the printers.
 
 <figure><img src="docs/img/w12/w12-5.jpeg" alt=""><figcaption></figcaption></figure>
 
-We wanted to keep the design simple so as to reduce gears and drive shafts needed we wondered if it would be possible to bend the belt around the corner. Constrained by the belt sizes we had salvaged from the Makerbot and Ultimaker printers, we decided to pick the longest - the Replicator X axis belt. To confirm the size, we printed a ¼ section that was using the belt to drive around the corner. This initial test piece was too small.
+We wanted to keep the design simple so as to reduce the gears and drive shafts needed. We wondered if it would be possible to bend the belt around the corner. Constrained by the belt sizes we had salvaged from the Makerbot and Ultimaker printers, we decided to pick the longest - the Replicator X-axis belt. To confirm the size, we printed a ¼ section that was using the belt to drive around the corner. This initial test piece was too small.
 
 <figure><img src=".gitbook/assets/12_pic_01 - 4.jpeg" alt=""><figcaption><p>First Laser Cut Size Test</p></figcaption></figure>
 
@@ -83,50 +83,50 @@ We measured the belt a bit more accurately the second time and got something tha
 
 <figure><img src="docs/img/w12/w12-8.jpeg" alt=""><figcaption></figcaption></figure>
 
-Once we were happy that the dimensions of the outside ring would accommodate the belts we were using we started to build of the full cad model for manufacture.
+Once we were happy that the dimensions of the outside ring would accommodate the belts we were using, we started to build the full CAD model for manufacture.
 
-* Base - Carl - CNC'd bottom and lasercut uprights taken from the ultimaker 2 side panels
+* Base - Carl - CNC'd bottom and laser-cut uprights taken from the Ultimaker 2 side panels
 * Outer Ring - Diarmuid - This is the most complex assembly as it contains the structure that holds the inner ring, but also all the gearing and the belt tensioning system.
-* Inner Ring - Carl - This is the piece that will hold the mold so needs to be robus and light weight as this is the fastest part of the product due to the 4:1 gearing.
-* Electronics and programing - Thom - Thom
+* Inner Ring - Carl - This is the piece that will hold the mould, so it needs to be robust and lightweight, as this is the fastest part of the product due to the 4:1 gearing.
+* Electronics and programming - Thom - Thom
 
 Think we need to add images here of the test laser cuts
 
 We laser cut ¼ of the arm that was going to be used
 
-The Inner ring consists of 8 identical 3D printed parts that are sandwiched between 2 MDF rings.
+The Inner ring consists of 8 identical 3d printed parts that are sandwiched between 2 MDF rings.
 
-As all the parts are identical they needed to be multifunctional
+As all the parts are identical, they needed to be multifunctional
 
 So they could each hold:
 
 * 2 skateboard bearings
-* 1 belt pulley from the ultimaker to retain the drive axis
+* 1 belt pulley from the Ultimaker to retain the drive axis
 * 2 mounting points for the mould assembly
 
 <figure><img src="docs/img/w12/w12-6.jpeg" alt=""><figcaption></figcaption></figure>
 
-The full assembly was created in fusion 360
+The full assembly was created in Fusion 360
 
 <figure><img src="docs/img/w12/w12-7.jpeg" alt=""><figcaption></figcaption></figure>
 
-And using 'insert component' it was brought into Diarmuid design so we had a complete CAD model
+And using 'insert component', it was brought into Diarmuid design, so we had a complete CAD model
 
 <figure><img src="docs/img/w12/w12-9.jpeg" alt=""><figcaption></figcaption></figure>
 
-And the full set were printed on Carls Bambu Lab P1s -
+And the full set was printed on Carls Bambu Lab P1S -
 
 {% embed url="https://fabacademy.org/2025/labs/creativespark/students/carl-mcateer/video/w12-printer.mp4" %}
 
-Where possible we designed parts around press fits as this is a relibably assembly method with 3D printed parts - such as the skateboard bearings in these 3d printed idlers.
+Where possible, we designed parts around press fits as this is a reliable assembly method with 3d printed parts, such as the skateboard bearings in these 3d printed idlers.
 
 <figure><img src="docs/img/w12/w12-11.jpeg" alt=""><figcaption></figcaption></figure>
 
-Full assembly for outer ring showen below
+Full assembly for the outer ring is shown below
 
 <figure><img src="docs/img/w12/w12-12.jpeg" alt=""><figcaption></figcaption></figure>
 
-While Carl and Diarmud worked on the mecinacial design Thom created the electronic design for the project, here he is de soldering power supply components from the Ultimaker main board.
+While Carl and Diarmud worked on the mechanical design, Thom created the electronic design for the project. Here he is desoldering power supply components from the Ultimaker main board.
 
 <figure><img src="docs/img/w12/w12-13.jpeg" alt=""><figcaption></figcaption></figure>
 
@@ -134,7 +134,7 @@ The linear rods from the Ultimaker were cut into sections using an angle grinder
 
 <figure><img src="docs/img/w12/w12-14.jpeg" alt=""><figcaption></figcaption></figure>
 
-The angle grinder can leave a shap edge so all pieces were finished on the bench grinder
+The angle grinder can leave a sharp edge, so all pieces were finished on the bench grinder
 
 <figure><img src="docs/img/w12/w12-15.jpeg" alt=""><figcaption></figcaption></figure>
 
@@ -146,15 +146,15 @@ The assembly of the outer ring
 
 <figure><img src="docs/img/w12/w12-17.jpeg" alt=""><figcaption></figcaption></figure>
 
-The longer linear rails from the makerbot were used to align the printed components.
+The longer linear rails from the Makerbot were used to align the printed components.
 
 <figure><img src="docs/img/w12/w12-18.jpeg" alt=""><figcaption></figcaption></figure>
 
-We just had to be careful not to knock them together to hard!
+We just had to be careful not to knock them together too hard... we got some flex issues, oops...
 
 <figure><img src="docs/img/w12/w12-19.jpeg" alt=""><figcaption></figcaption></figure>
 
-Same process was used for the inner ring, it used a captured pulley on one end and a set of skateboard bearings on the other.
+The inner ring used the same process: a captured pulley on one end and a set of skateboard bearings on the other.
 
 <figure><img src="docs/img/w12/w12-20.jpeg" alt=""><figcaption></figcaption></figure>
 
@@ -162,21 +162,21 @@ Giving it a spin!
 
 <figure><img src="docs/img/w12/w12-22.jpeg" alt=""><figcaption></figcaption></figure>
 
-The completed ring assembly with belts attached. The critical element of this is the 4:1 gearing, so each time the big ring spins once the inner ring spins 4 times. This allows the contents of the mold to be spread evenly, assuming a relatively evenly proportioned mold.
+The completed ring assembly with belts attached. The critical element of this is the 4:1 gearing, so each time the big ring spins once, the inner ring spins 4 times. This allows the contents of the mould to be spread evenly, assuming a relatively evenly proportioned mould.
 
 <figure><img src="docs/img/w12/w12-23.jpeg" alt=""><figcaption></figcaption></figure>
 
-The side panels were lasercut from the acrylic panels from the ultimaker
+The side panels were laser-cut from the acrylic panels from the Ultimaker
 
 <figure><img src="docs/img/w12/w12-24.jpeg" alt=""><figcaption></figcaption></figure>
 
-And the parts were dry fit together
+And the parts were dry-fitted together, and we checked the belt alignment and tension.
 
 <figure><img src="docs/img/w12/w12-25.jpeg" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://fabacademy.org/2025/labs/creativespark/students/carl-mcateer/video/w12-cnc.mp4" %}
 
-The base was cut out of 24mm plywood as we wanted something heavy to keep the machine from rocking in operation
+The base was cut out of 24mm plywood, as we wanted something heavy to keep the machine from rocking in operation.&#x20;
 
 <figure><img src="docs/img/w12/w12-26.jpeg" alt=""><figcaption></figcaption></figure>
 
