@@ -17,11 +17,13 @@
 
 ### About this week <a href="#id-19caf66e-e64e-8057-8ecc-ddd585390c2c" id="id-19caf66e-e64e-8057-8ecc-ddd585390c2c"></a>
 
-For mechanical and machine design, our group will be designing and building a rotocasting machine from upcycled 3d printer components.
+For mechanical and machine design, our group will be designing and building a roto-casting machine from upcycled 3d printer components.
 
 Roto-Casting is a process where a mold is partially filled with a self-casting material and rotated about 2 axes so as to create a hollow part, ideally with an even wall thickness
 
 ***
+
+<figure><img src=".gitbook/assets/Main Slide.jpg" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://fabacademy.org/2025/labs/creativespark/students/carl-mcateer/video/abomination.mp4" %}
 
