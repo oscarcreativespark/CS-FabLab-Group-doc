@@ -188,21 +188,28 @@ Removing the piece from the CNC
 
 ### **Machine Design (part 2 of 2)** <a href="#id-19caf66e-e64e-802f-bbba-fe4c9e5ba9f0" id="id-19caf66e-e64e-802f-bbba-fe4c9e5ba9f0"></a>
 
+TODO -
+
 <figure><img src="docs/img/w12/w12-02-2.jpeg" alt=""><figcaption></figcaption></figure>
 
-TODO - this is a thing from carl
+TODO -&#x20;
 
 <figure><img src="docs/img/w12/w12-02-3.jpeg" alt=""><figcaption></figcaption></figure>
 
-TODO
+We attached the motor mount with the drive belt to check fit and tension - we decided to use a 1:4 reduction gear to reduce the load on the stepper motor - (at least we think this is what it will do).  Two issues were encountered&#x20;
 
-<figure><img src="docs/img/w12/w12-02-4.jpeg" alt=""><figcaption></figcaption></figure>
+* The belt was rubbing the printed motor mount.
+* The mounting holes were in the wrong place - it was designed for a smaller belt with a 1:1 ratio, but when we decided to use a 4:1 reduction gear, this required a longer belt.&#x20;
 
-TODO
+
 
 <figure><img src="docs/img/w12/w12-02-5.jpeg" alt=""><figcaption></figcaption></figure>
 
-TODO
+A quick widening with the Dremel tool and we are good to go!!
+
+<figure><img src="docs/img/w12/w12-02-4.jpeg" alt=""><figcaption></figcaption></figure>
+
+When we were having issues with the stepper motor skipping, we decided to balance the outer ring -  using bearings and duct tape - it fixes everything!!&#x20;
 
 <figure><img src="docs/img/w12/w12-02-6.jpeg" alt=""><figcaption></figcaption></figure>
 
