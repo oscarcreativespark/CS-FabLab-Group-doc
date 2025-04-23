@@ -217,15 +217,19 @@ When we were having issues with the stepper motor skipping, we decided to balanc
 
 <figure><img src="docs/img/w12/w12-02-6.jpeg" alt=""><figcaption></figcaption></figure>
 
-TODO
+[A4988 motor current tuning](https://ardufocus.com/howto/a4988-motor-current-tuning/)
+
+In order to get the wheel to spin we needed to adjust the current tuning on the driver using the built in pot. We to a voltage reading from the pot to ground and adjusted until we read 0.94v
+
+Note: This is going to generate more heat on the driver so we made sure to add a cooling fan to our design.
 
 <figure><img src="docs/img/w12/w12-02-7.jpeg" alt=""><figcaption></figcaption></figure>
 
-TODO
+To make sure we finished on time we put the last few mission critical steps on a white board.
 
 <figure><img src="docs/img/w12/w12-02-8.jpeg" alt=""><figcaption></figcaption></figure>
 
-TODO
+The general layout for the electrical enclosure was done in [Maker Case](https://en.makercase.com/#/)
 
 <figure><img src="docs/img/w12/w12-02-9.jpeg" alt=""><figcaption></figcaption></figure>
 
