@@ -22,7 +22,11 @@ Type here
 
 > _List all the machines, software and materials used in this assigment._
 
-* Type here
+_Carl:_
+
+* Moulding - MBFG Duroflex 30 PU
+* Casting - Jesmonite 100A
+* Moulding Bonus: EVA Flex Vac Form using last weeks roto-casting machine.
 
 ***
 
@@ -31,6 +35,38 @@ Type here
 > Describe step-by-step what the group did. Include sketches, screenshots, or videos if possible.
 
 Type here
+
+<figure><img src=".gitbook/assets/w13-g1-1.jpeg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/w13-g1-2.jpeg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/w13-g1-3.jpeg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/w13-g1-4.jpeg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/w13-g1-7.jpeg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/w13-g1-8.jpeg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/w13-g1-9.jpeg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/w13-g1-10.jpeg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/w13-g1-11.jpeg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/w13-g1-12.jpeg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/w13-g1-13.jpeg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/w13-g1-14.jpeg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/w13-g1-15.jpeg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/w13-g1-16.jpeg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/w13-g1-17.jpeg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/w13-g1-18.jpeg" alt=""><figcaption></figcaption></figure>
 
 ***
 
