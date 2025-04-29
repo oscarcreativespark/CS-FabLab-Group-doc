@@ -36,6 +36,12 @@ _Carl:_
 
 Type here
 
+### Jesmonite
+
+
+
+{% file src=".gitbook/assets/Jesmonite-AC100-Liquids-MSDS.pdf" %}
+
 <figure><img src=".gitbook/assets/w13-g1-1.jpeg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/w13-g1-2.jpeg" alt=""><figcaption></figcaption></figure>
@@ -46,9 +52,17 @@ Type here
 
 <figure><img src=".gitbook/assets/w13-g1-7.jpeg" alt=""><figcaption></figcaption></figure>
 
+### Urethane Rubber
+
 <figure><img src=".gitbook/assets/w13-g1-8.jpeg" alt=""><figcaption></figcaption></figure>
 
+{% file src=".gitbook/assets/DuroFlex30_parta_sds.pdf" %}
+
+{% file src=".gitbook/assets/DuroFlex30_partb_sds.pdf" %}
+
 <figure><img src=".gitbook/assets/w13-g1-9.jpeg" alt=""><figcaption></figcaption></figure>
+
+
 
 <figure><img src=".gitbook/assets/w13-g1-10.jpeg" alt=""><figcaption></figcaption></figure>
 
@@ -67,6 +81,16 @@ Type here
 <figure><img src=".gitbook/assets/w13-g1-17.jpeg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/w13-g1-18.jpeg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/Week 13 - Second batch of group - 1.jpeg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/Week 13 - Second batch of group - 2.jpeg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/Week 13 - Second batch of group - 3.jpeg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/Week 13 - Second batch of group - 4.jpeg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/Week 13 - Second batch of group - 5.jpeg" alt=""><figcaption></figcaption></figure>
 
 ***
 
