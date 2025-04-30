@@ -66,13 +66,25 @@ Type here
 
 <figure><img src=".gitbook/assets/w13-g1-1.jpeg" alt=""><figcaption></figcaption></figure>
 
+Jesmonite uses a 2.5 part dry material to 1 part wet materials.
+
 <figure><img src=".gitbook/assets/w13-g1-2.jpeg" alt=""><figcaption></figcaption></figure>
+
+It needs to be sired genitally but thoroughly so that you don't need introduce air but fully mix the materials.
 
 <figure><img src=".gitbook/assets/w13-g1-3.jpeg" alt=""><figcaption></figcaption></figure>
 
+I chose to use the pigments for the Jesmonite, in my case you can add up to 2% of the volume&#x20;
+
 <figure><img src=".gitbook/assets/w13-g1-4.jpeg" alt=""><figcaption></figcaption></figure>
 
+I used a mould that came as a sample for a coaster and our egg roto-cast.
+
 <figure><img src=".gitbook/assets/w13-g1-7.jpeg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/Week 13 - Third batch of group - 1.jpeg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/Week 13 - Third batch of group - 4.jpeg" alt=""><figcaption></figcaption></figure>
 
 ### Urethane Rubber
 
