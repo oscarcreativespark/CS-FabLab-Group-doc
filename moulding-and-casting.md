@@ -14,7 +14,7 @@ Group assignment
 
 > _Briefly describe the goal of the assignment. What are you characterizing, testing, or exploring_
 
-Type here
+Thom: Used a Clear V4 mould formed via the FormLabs 3B+ SLA printer,  to cast Urethane
 
 ***
 
@@ -27,6 +27,28 @@ _Carl:_
 * Moulding - MBFG Duroflex 30 PU
 * Casting - Jesmonite 100A
 * Moulding Bonus: EVA Flex Vac Form using last weeks roto-casting machine.
+
+Thom:
+
+Materials
+
+* Polytek Polyflex 30 PU Casting Rubber (Shore A30)
+* Polycryl No. 59 Wax Release
+* PlastiKote Clear-dry Lacquer Gloss
+* Iso-propyl alcohol 99%
+* Formlabs Clear V4 Resin
+* Plastikote Clear lacquer
+
+Machines
+
+* Formlab Form 3B+
+* Formlabs Wash
+* Formlabs Wash
+
+Software
+
+* Blender
+* Preform
 
 ***
 
@@ -91,6 +113,16 @@ Type here
 <figure><img src=".gitbook/assets/Week 13 - Second batch of group - 4.jpeg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/Week 13 - Second batch of group - 5.jpeg" alt=""><figcaption></figcaption></figure>
+
+***
+
+Thom: Moulding Urethane in a Clear V4 Resin 3D printed Form
+
+Safety Documents:
+
+* [https://formlabs-media.formlabs.com/datasheets/Safety\_Data\_Sheet\_EN-EU\_-\_Clear.pdf](https://formlabs-media.formlabs.com/datasheets/Safety_Data_Sheet_EN-EU_-_Clear.pdf) - Clear V4 Resin Saftey Sheet
+* [https://phoenixproductsco.com/wp-content/uploads/2015/10/Isopropyl-Alcohol-99-2670.pdf](https://phoenixproductsco.com/wp-content/uploads/2015/10/Isopropyl-Alcohol-99-2670.pdf) - IPA 99%, Safety Sheet
+* [https://cdn.aws.toolstation.com/items/coshh/safety-data-sheet-Plastikote-95217.pdf](https://cdn.aws.toolstation.com/items/coshh/safety-data-sheet-Plastikote-95217.pdf) - Plastikote Clear Lacquer Safety sheet
 
 ***
 
