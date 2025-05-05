@@ -49,18 +49,23 @@ My implementation uses the Microdot framework to create a lightweight web server
 
 <figure><img src=".gitbook/assets/thonny.jpg" alt=""><figcaption></figcaption></figure>
 
-1. Sets up a WiFi access point named "fab" with password "classroom5"
+Sets up a WiFi access point named "fab" with password "classroom5"
 
 <figure><img src=".gitbook/assets/wifi.jpg" alt=""><figcaption></figcaption></figure>
 
-1. Serves a responsive HTML/CSS/JS interface on port 80
+Serves a responsive HTML/CSS/JS interface on port 80
 
 <figure><img src=".gitbook/assets/dashboard.jpg" alt=""><figcaption></figcaption></figure>
 
-1. Provides API endpoints for controlling the onboard LED (/on and /off)
-2. Monitors the state of a physical button connected to GPIO 21
-3. Updates the web interface in real-time when button state changes
-4. Displays timestamps of button press events
+* Provides API endpoints for controlling the onboard LED (/on and /off)
+* Monitors the state of a physical button connected to GPIO 21
+
+{% embed url="https://fabacademy.org/2025/labs/creativespark/students/thom-conaty/images/weekly/week14/LED_vid_compressed.mp4" %}
+
+* Updates the web interface in real-time when button state changes
+* Displays timestamps of button press events
+
+{% embed url="https://fabacademy.org/2025/labs/creativespark/students/thom-conaty/images/weekly/week14/button_vid_compressed.mp4" %}
 
 ***
 
@@ -92,6 +97,8 @@ Approach Comparison
 
 **Best Use Cases:** Ideal for local control systems, home automation interfaces, and projects where multiple users need access through different devices
 
+**-**
+
 **Command Line Interface**\
 Pros:\
 \- Minimal resource usage\
@@ -102,7 +109,9 @@ Pros:\
 Cons:\
 \- Not user-friendly for non-technical users\
 \- Limited visual feedback\
-\- Requires terminal access\
+\- Requires terminal access
+
+\
 **Best Use Cases:** Development and debugging tools, headless systems, or scenarios with very limited resources
 
 ***
