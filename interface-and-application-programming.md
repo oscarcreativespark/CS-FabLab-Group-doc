@@ -13,7 +13,7 @@ Group assignment
 
 > _Briefly describe the goal of the assignment. What are you characterizing, testing, or exploring_
 
-Type here
+For our group assignment, we evaluated several approaches for creating interfaces to microcontrollers. After comparing multiple options, I (Thom) implemented a _web-based dashboard_ approach using MicroPython and the Microdot framework.&#x20;
 
 ***
 
@@ -21,7 +21,17 @@ Type here
 
 > _List all the machines, software and materials used in this assigment._
 
-* Type here
+Thom:
+
+For the web dashboard implementation:
+
+* MicroPython programming language
+* Microdot web framework
+* HTML/CSS/JavaScript for frontend design
+* Raspberry Pi Pico W microcontroller
+* Push button (connected to GPIO 21)
+* Onboard LED for visual feedback
+* Web browser (Chrome, Firefox, Safari, etc.) for interface access
 
 ***
 
@@ -29,7 +39,28 @@ Type here
 
 > Describe step-by-step what the group did. Include sketches, screenshots, or videos if possible.
 
-Type here
+Thom:
+
+\
+![](.gitbook/assets/photodevice.jpg)\
+
+
+My implementation uses the Microdot framework to create a lightweight web server ran via Thonny, on the Pico W that:
+
+<figure><img src=".gitbook/assets/thonny.jpg" alt=""><figcaption></figcaption></figure>
+
+1. Sets up a WiFi access point named "fab" with password "classroom5"
+
+<figure><img src=".gitbook/assets/wifi.jpg" alt=""><figcaption></figcaption></figure>
+
+1. Serves a responsive HTML/CSS/JS interface on port 80
+
+<figure><img src=".gitbook/assets/dashboard.jpg" alt=""><figcaption></figcaption></figure>
+
+1. Provides API endpoints for controlling the onboard LED (/on and /off)
+2. Monitors the state of a physical button connected to GPIO 21
+3. Updates the web interface in real-time when button state changes
+4. Displays timestamps of button press events
 
 ***
 
@@ -41,7 +72,38 @@ Type here
 
 > **Solutions:** \[How did you solve them?]
 
-Type here
+Thom:\
+\
+Approach Comparison
+
+**Web Dashboard** (My Implementation)
+
+Pros:\
+\- Device-agnostic - works on any device with a browser\
+\- Familiar HTML/CSS/JS technologies\
+\- No app installation required\
+\- Responsive design works on mobile and desktop
+
+Cons:\
+\- Requires network connectivity\
+\- Higher resource usage on microcontroller\
+\- Limited to HTTP protocol without websockets\
+
+
+**Best Use Cases:** Ideal for local control systems, home automation interfaces, and projects where multiple users need access through different devices
+
+**Command Line Interface**\
+Pros:\
+\- Minimal resource usage\
+\- Simple to implement\
+\- Scriptable and automatable\
+
+
+Cons:\
+\- Not user-friendly for non-technical users\
+\- Limited visual feedback\
+\- Requires terminal access\
+**Best Use Cases:** Development and debugging tools, headless systems, or scenarios with very limited resources
 
 ***
 
@@ -49,4 +111,14 @@ Type here
 
 > Add all files created for this group assignment
 
-See below link to to files created this week:
+See below link to to files created this week:\
+\
+Thom:&#x20;
+
+{% file src=".gitbook/assets/microdot.py" %}
+
+{% file src=".gitbook/assets/microdot_asyncio.py" %}
+
+{% file src=".gitbook/assets/" %}
+
+{% file src=".gitbook/assets/simple_dashboard.py" %}
